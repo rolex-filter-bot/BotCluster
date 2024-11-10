@@ -1,19 +1,19 @@
 {   
     "bot1": {
-        "source": "repo_link",
-        "branch": "master",
+        "source": "https://github.com/rolex-filter-bot/FilterBot",
+        "branch": "THALA_AJITH-1.0",
         "env": {
-            "TOKEN": ""
+            "TOKEN": "7019574948:AAETOa0Rim5A4P-u71YHURrEcjK7f09fJUU"
         },
-        "run": "run.sh"
+        "run": "bot.py"
     },
     "bot2": {
-        "source": "repo_link",
+        "source": "https://github.com/rolex-filter-bot/Rolexleechbot",
         "branch": "master",
         "env": {
-            "TOKEN": ""
+            "TOKEN": "7319401145:AAFgxIKthqcO_9UBtxAogpPWMDLrGvl_6Rc"
         },
-        "run": "run.sh"
+        "run": "start.sh"
     },
     "bot3": {
         "source": "repo_link",
